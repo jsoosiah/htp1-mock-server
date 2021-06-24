@@ -1,0 +1,4730 @@
+{
+  "volume": -25,
+  "status": {
+    "raw": {
+      "streamType": 8,
+      "inputSampleRateEnum": 3,
+      "inputSampleRate": 44100,
+      "outputSampleRateEnum": 3,
+      "outputSampleRate": 44100,
+      "activity": 15,
+      "decProgramFormat": 3,
+      "encListeningFormat": 234945223,
+      "delayms": 103,
+      "streamInfoBytes": [
+        0,
+        22,
+        109,
+        1,
+        0
+      ]
+    },
+    "DECSourceProgram": "PCM",
+    "SurroundMode": "Dolby Surround",
+    "DECSampleRate": "44.1 kHz",
+    "ENCSampleRate": "44.1 kHz",
+    "DECProgramFormat": "2.0.0",
+    "ENCListeningFormat": "7.3.6",
+    "DiracState": "on"
+  },
+  "cal": {
+    "lipsync": 0,
+    "vpl": -100,
+    "vph": -7,
+    "ampsense": 2,
+    "slots": [
+      {
+        "checksum": 154328847,
+        "channels": {
+          "lf": {
+            "caldelay": 9.4399995803833,
+            "caltrim": -3.700000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "rf": {
+            "caldelay": 9.479999542236328,
+            "caltrim": -3.759999990463257,
+            "delay": 100,
+            "trim": 6
+          },
+          "c": {
+            "caldelay": 7.380000114440918,
+            "caltrim": 0,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub1": {
+            "caldelay": 7.940000057220459,
+            "caltrim": -3.7100000381469727,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub2": {
+            "caldelay": 8.0600004196167,
+            "caltrim": -0.9800000190734863,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub3": {
+            "caldelay": 7.400000095367432,
+            "caltrim": -12.180000305175781,
+            "delay": 0,
+            "trim": 0
+          },
+          "ls": {
+            "caldelay": 3.2300000190734863,
+            "caltrim": -7.210000038146973,
+            "delay": 100,
+            "trim": 6
+          },
+          "rs": {
+            "caldelay": 0.75,
+            "caltrim": -7.440000057220459,
+            "delay": 100,
+            "trim": 6
+          },
+          "lb": {
+            "caldelay": 6.440000057220459,
+            "caltrim": -6.630000114440918,
+            "delay": 100,
+            "trim": 6
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": -2.450000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltf": {
+            "caldelay": 8.600000381469727,
+            "caltrim": -9.289999961853027,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtf": {
+            "caldelay": 8.460000038146973,
+            "caltrim": -8.229999542236328,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltm": {
+            "caldelay": 2.7100000381469727,
+            "caltrim": -10.010000228881836,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtm": {
+            "caldelay": 0.05999999865889549,
+            "caltrim": -7.159999847412109,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltr": {
+            "caldelay": 9.380000114440918,
+            "caltrim": -7.730000019073486,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtr": {
+            "caldelay": 9.920000076293945,
+            "caltrim": -8.829999923706055,
+            "delay": 100,
+            "trim": 6
+          },
+          "lw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "DLBC Lvl 3 Test",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": true,
+        "version": 5
+      },
+      {
+        "checksum": 2078114125,
+        "channels": {
+          "lf": {
+            "caldelay": 9.4399995803833,
+            "caltrim": -3.700000047683716,
+            "delay": 0,
+            "trim": 0
+          },
+          "rf": {
+            "caldelay": 9.479999542236328,
+            "caltrim": -3.759999990463257,
+            "delay": 0,
+            "trim": 0
+          },
+          "c": {
+            "caldelay": 7.380000114440918,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub1": {
+            "caldelay": 8.0600004196167,
+            "caltrim": -3.7100000381469727,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub2": {
+            "caldelay": 8.170000076293945,
+            "caltrim": -0.9800000190734863,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub3": {
+            "caldelay": 7.400000095367432,
+            "caltrim": -12.180000305175781,
+            "delay": 0,
+            "trim": 0
+          },
+          "ls": {
+            "caldelay": 3.2300000190734863,
+            "caltrim": -7.210000038146973,
+            "delay": 0,
+            "trim": 0
+          },
+          "rs": {
+            "caldelay": 0.75,
+            "caltrim": -7.440000057220459,
+            "delay": 0,
+            "trim": 0
+          },
+          "lb": {
+            "caldelay": 6.440000057220459,
+            "caltrim": -6.630000114440918,
+            "delay": 0,
+            "trim": 0
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": -2.450000047683716,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltf": {
+            "caldelay": 8.600000381469727,
+            "caltrim": -9.289999961853027,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtf": {
+            "caldelay": 8.460000038146973,
+            "caltrim": -8.239999771118164,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltm": {
+            "caldelay": 2.7100000381469727,
+            "caltrim": -10.010000228881836,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtm": {
+            "caldelay": 0.05999999865889549,
+            "caltrim": -7.159999847412109,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltr": {
+            "caldelay": 9.380000114440918,
+            "caltrim": -7.730000019073486,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtr": {
+            "caldelay": 9.920000076293945,
+            "caltrim": -8.829999923706055,
+            "delay": 0,
+            "trim": 0
+          },
+          "lw": {
+            "caldelay": 2.809999942779541,
+            "caltrim": -9.859999656677246,
+            "delay": 0,
+            "trim": 0
+          },
+          "rw": {
+            "caldelay": 0.10000000149011612,
+            "caltrim": -7.269999980926514,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "BC Off Flat",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": false,
+        "version": 5
+      },
+      {
+        "checksum": 1456234985,
+        "channels": {
+          "lf": {
+            "caldelay": 9.4399995803833,
+            "caltrim": -3.619999885559082,
+            "delay": 100,
+            "trim": 6
+          },
+          "rf": {
+            "caldelay": 9.479999542236328,
+            "caltrim": -3.75,
+            "delay": 100,
+            "trim": 6
+          },
+          "c": {
+            "caldelay": 7.380000114440918,
+            "caltrim": 0,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub1": {
+            "caldelay": 8.020000457763672,
+            "caltrim": -4.070000171661377,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub2": {
+            "caldelay": 8.149999618530273,
+            "caltrim": -1.5199999809265137,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub3": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 6
+          },
+          "ls": {
+            "caldelay": 3.2300000190734863,
+            "caltrim": -7.230000019073486,
+            "delay": 100,
+            "trim": 6
+          },
+          "rs": {
+            "caldelay": 0.75,
+            "caltrim": -7.320000171661377,
+            "delay": 100,
+            "trim": 6
+          },
+          "lb": {
+            "caldelay": 6.440000057220459,
+            "caltrim": -6.539999961853027,
+            "delay": 100,
+            "trim": 6
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": -2.450000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltf": {
+            "caldelay": 8.600000381469727,
+            "caltrim": -9.069999694824219,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtf": {
+            "caldelay": 8.460000038146973,
+            "caltrim": -8.229999542236328,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltm": {
+            "caldelay": 2.7100000381469727,
+            "caltrim": -9.8100004196167,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtm": {
+            "caldelay": 0.05999999865889549,
+            "caltrim": -7.159999847412109,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltr": {
+            "caldelay": 9.380000114440918,
+            "caltrim": -7.760000228881836,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtr": {
+            "caldelay": 9.920000076293945,
+            "caltrim": -8.84000015258789,
+            "delay": 100,
+            "trim": 6
+          },
+          "lw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": -100
+          },
+          "rw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "DLBC Full Focused",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": true,
+        "version": 5
+      },
+      {
+        "checksum": 1152286576,
+        "channels": {
+          "lf": {
+            "caldelay": 9.4399995803833,
+            "caltrim": -3.619999885559082,
+            "delay": 100,
+            "trim": 6
+          },
+          "rf": {
+            "caldelay": 9.479999542236328,
+            "caltrim": -3.75,
+            "delay": 100,
+            "trim": 6
+          },
+          "c": {
+            "caldelay": 7.380000114440918,
+            "caltrim": 0,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub1": {
+            "caldelay": 8.020000457763672,
+            "caltrim": -4.070000171661377,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub2": {
+            "caldelay": 8.149999618530273,
+            "caltrim": -1.5199999809265137,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub3": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": -100,
+            "preMuteTrim": 6,
+            "mute": true
+          },
+          "ls": {
+            "caldelay": 3.2300000190734863,
+            "caltrim": -7.230000019073486,
+            "delay": 100,
+            "trim": 6
+          },
+          "rs": {
+            "caldelay": 0.75,
+            "caltrim": -7.320000171661377,
+            "delay": 100,
+            "trim": 6
+          },
+          "lb": {
+            "caldelay": 6.440000057220459,
+            "caltrim": -6.539999961853027,
+            "delay": 100,
+            "trim": 6
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": -2.450000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltf": {
+            "caldelay": 8.600000381469727,
+            "caltrim": -9.069999694824219,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtf": {
+            "caldelay": 8.460000038146973,
+            "caltrim": -8.229999542236328,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltm": {
+            "caldelay": 2.7100000381469727,
+            "caltrim": -9.8100004196167,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtm": {
+            "caldelay": 0.05999999865889549,
+            "caltrim": -7.159999847412109,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltr": {
+            "caldelay": 9.380000114440918,
+            "caltrim": -7.760000228881836,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtr": {
+            "caldelay": 9.920000076293945,
+            "caltrim": -8.84000015258789,
+            "delay": 100,
+            "trim": 6
+          },
+          "lw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "DLBC BC Off Focused",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": false,
+        "version": 5
+      },
+      {
+        "checksum": 1901719855,
+        "channels": {
+          "lf": {
+            "caldelay": 9.4399995803833,
+            "caltrim": -3.700000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "rf": {
+            "caldelay": 9.479999542236328,
+            "caltrim": -3.759999990463257,
+            "delay": 100,
+            "trim": 6
+          },
+          "c": {
+            "caldelay": 7.380000114440918,
+            "caltrim": 0,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub1": {
+            "caldelay": 7.940000057220459,
+            "caltrim": -3.7100000381469727,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub2": {
+            "caldelay": 8.0600004196167,
+            "caltrim": -0.9800000190734863,
+            "delay": 100,
+            "trim": 6
+          },
+          "sub3": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 6
+          },
+          "ls": {
+            "caldelay": 3.2300000190734863,
+            "caltrim": -7.210000038146973,
+            "delay": 100,
+            "trim": 6
+          },
+          "rs": {
+            "caldelay": 0.75,
+            "caltrim": -7.440000057220459,
+            "delay": 100,
+            "trim": 6
+          },
+          "lb": {
+            "caldelay": 6.440000057220459,
+            "caltrim": -6.630000114440918,
+            "delay": 100,
+            "trim": 6
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": -2.450000047683716,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltf": {
+            "caldelay": 8.600000381469727,
+            "caltrim": -9.289999961853027,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtf": {
+            "caldelay": 8.460000038146973,
+            "caltrim": -8.229999542236328,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltm": {
+            "caldelay": 2.7100000381469727,
+            "caltrim": -10.010000228881836,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtm": {
+            "caldelay": 0.05999999865889549,
+            "caltrim": -7.159999847412109,
+            "delay": 100,
+            "trim": 6
+          },
+          "ltr": {
+            "caldelay": 9.380000114440918,
+            "caltrim": -7.730000019073486,
+            "delay": 100,
+            "trim": 6
+          },
+          "rtr": {
+            "caldelay": 9.920000076293945,
+            "caltrim": -8.829999923706055,
+            "delay": 100,
+            "trim": 6
+          },
+          "lw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "DLBC Fixed 80",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": true,
+        "version": 5
+      },
+      {
+        "checksum": 31802,
+        "channels": {
+          "lf": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rf": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "c": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub1": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub2": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub3": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "ls": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rs": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltf": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtf": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltm": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtm": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "ltr": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rtr": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rw": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rfh": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "lhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "rhb": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub4": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          },
+          "sub5": {
+            "caldelay": 0,
+            "caltrim": 0,
+            "delay": 0,
+            "trim": 0
+          }
+        },
+        "name": "Null 9.1.6 Filter",
+        "valid": true,
+        "current": false,
+        "hasBCFilter": false,
+        "version": 4
+      }
+    ],
+    "diracactive": "on",
+    "currentdiracslot": 4,
+    "caltoolconnected": false,
+    "speakerConfigMismatch": false,
+    "headroom": 7,
+    "zeroPoint": 0
+  },
+  "unitname": "HTP-1 Demo Unit",
+  "bassenhance": "off",
+  "bmmmode": 11,
+  "speakers": {
+    "groups": {
+      "lr": {
+        "fc": 80,
+        "size": "s"
+      },
+      "c": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrs": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrb": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrw": {
+        "present": false,
+        "fc": 80,
+        "size": "s"
+      },
+      "sub1": {
+        "present": true,
+        "fc": 120,
+        "size": "l"
+      },
+      "sub2": {
+        "present": true,
+        "fc": 80,
+        "size": "l"
+      },
+      "sub3": {
+        "present": true,
+        "fc": 80,
+        "size": "l"
+      },
+      "lrtf": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrtm": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrtr": {
+        "present": true,
+        "fc": 80,
+        "size": "s"
+      },
+      "lrhf": {
+        "present": false,
+        "fc": 80,
+        "size": "l"
+      },
+      "lrhr": {
+        "present": false,
+        "fc": 80,
+        "size": "l"
+      },
+      "sub4": {
+        "present": false,
+        "fc": 80,
+        "size": "l"
+      },
+      "sub5": {
+        "present": false,
+        "fc": 80,
+        "size": "l"
+      }
+    },
+    "uppermode": "top",
+    "mapping": [
+      "Left front",
+      "Right front",
+      "Center",
+      "Subwoofer",
+      "Left Surround",
+      "Right Surround",
+      "Left Back",
+      "Right Back",
+      "Left Top Front",
+      "Right Top Front",
+      "Left Top Middle",
+      "Right Top Middle",
+      "Left Top Rear",
+      "Right Top Rear",
+      "Subwoofer 2",
+      "Subwoofer 3"
+    ]
+  },
+  "debugMask": 0,
+  "eq": {
+    "tc": false,
+    "treble": {
+      "level": 0,
+      "freq": 8000
+    },
+    "bass": {
+      "level": 0,
+      "freq": 500
+    }
+  },
+  "CEC": {
+    "cecOnSw": "off",
+    "allowpwrk": true,
+    "allowvolk": true,
+    "allowsaf": true,
+    "allowinp": true,
+    "allowstdb": true
+  },
+  "inputs": {
+    "h1": {
+      "label": "PC",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": true,
+      "menuSounds": 3,
+      "defaultUpmix": "dolby",
+      "delay": 0,
+      "diracslot": 4
+    },
+    "h2": {
+      "label": "HDMI 2",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": false,
+      "menuSounds": 3,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "h3": {
+      "label": "HDMI 3",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": false,
+      "menuSounds": 3,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "h4": {
+      "label": "BD",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": true,
+      "menuSounds": 3,
+      "defaultUpmix": "dolby",
+      "delay": 0,
+      "diracslot": 4
+    },
+    "h5": {
+      "label": "PS4",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": true,
+      "menuSounds": 3,
+      "defaultUpmix": "dolby",
+      "delay": 0,
+      "diracslot": 4
+    },
+    "h6": {
+      "label": "HDMI 6",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": false,
+      "menuSounds": 3,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "h7": {
+      "label": "HDMI 7",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": false,
+      "menuSounds": 3,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "h8": {
+      "label": "Switch",
+      "disable": false,
+      "gain": 0,
+      "uhd": true,
+      "formatDetectOption": "indicated",
+      "visible": true,
+      "menuSounds": 3,
+      "defaultUpmix": "dolby",
+      "delay": 0,
+      "diracslot": 4
+    },
+    "tv": {
+      "label": "TV",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 3,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "a1": {
+      "label": "Analog 1",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "biased",
+      "visible": false,
+      "menuSounds": 1,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "a2": {
+      "label": "Analog 2",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "biased",
+      "visible": false,
+      "menuSounds": 1,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "spdif1": {
+      "label": "Coax 1",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "spdif2": {
+      "label": "Coax 2",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "spdif3": {
+      "label": "Coax 3",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "optical1": {
+      "label": "Chromecast",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": true,
+      "menuSounds": 2,
+      "defaultUpmix": "off",
+      "delay": 0,
+      "diracslot": 4
+    },
+    "optical2": {
+      "label": "Optical 2",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "optical3": {
+      "label": "Optical 3",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "aes": {
+      "label": "AES/EBU",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "auto",
+      "visible": false,
+      "menuSounds": 2,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "roon": {
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "biased",
+      "visible": false,
+      "menuSounds": 1,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null,
+      "label": "Roon Ready"
+    },
+    "usb": {
+      "label": "USB",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "biased",
+      "visible": false,
+      "menuSounds": 1,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    },
+    "b": {
+      "label": "Bluetooth",
+      "disable": false,
+      "gain": 0,
+      "formatDetectOption": "biased",
+      "visible": false,
+      "menuSounds": 1,
+      "defaultUpmix": null,
+      "delay": 0,
+      "diracslot": null
+    }
+  },
+  "upmix": {
+    "select": "dolby",
+    "off": {
+      "homevis": true
+    },
+    "native": {
+      "homevis": false
+    },
+    "dolby": {
+      "homevis": true,
+      "cs": false
+    },
+    "dts": {
+      "homevis": false,
+      "ws": false
+    },
+    "auro": {
+      "homevis": true,
+      "lm": 0,
+      "preset": 0,
+      "strength": 9
+    },
+    "mono": {
+      "homevis": false
+    },
+    "stereo": {
+      "homevis": false
+    }
+  },
+  "fastStart": "on",
+  "fastStartPassThrough": "off",
+  "powerOnVol": -25,
+  "powerIsOn": true,
+  "night": "off",
+  "loudness": "off",
+  "dialogEnh": 0,
+  "input": "h1",
+  "muted": false,
+  "network": {
+    "eth0": {
+      "dhcp": true,
+      "addr": "",
+      "mask": "",
+      "gw": "",
+      "nameservers": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    "wlan0": {
+      "dhcp": true,
+      "addr": "",
+      "mask": "",
+      "gw": "",
+      "nameservers": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    }
+  },
+  "hw": {
+    "fpBright": 0
+  },
+  "svronly": {
+    "lastin": "h1",
+    "resetmso": false,
+    "preset1": [
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/lf/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/lf/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/lf/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rf/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rf/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rf/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/c/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/c/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/c/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ls/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ls/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ls/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rs/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rs/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rs/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/lb/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/lb/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/lb/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rb/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rb/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rb/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltf/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltf/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltf/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtf/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtf/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtf/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltm/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltm/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltm/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtm/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtm/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtm/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltr/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltr/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/ltr/preMuteTrim"
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtr/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtr/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/2/channels/rtr/preMuteTrim"
+      }
+    ],
+    "preset2": [
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/lf/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rf/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/c/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/c/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/c/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ls/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ls/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ls/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rs/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rs/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rs/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lb/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lb/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/lb/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rb/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rb/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rb/trim",
+        "value": -100
+      }
+    ],
+    "preset3": [
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lb/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/lb/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/lb/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rb/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rb/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rb/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltf/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtf/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltm/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltm/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltm/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtm/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtm/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtm/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltr/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltr/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltr/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtr/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtr/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtr/trim",
+        "value": -100
+      }
+    ],
+    "preset4": [
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtr/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtr/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtr/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltr/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltr/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltr/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtm/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtm/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtm/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltm/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltm/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltm/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/rtf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/rtf/trim",
+        "value": -100
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltf/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/2/channels/ltf/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/2/channels/ltf/trim",
+        "value": -100
+      }
+    ],
+    "cmda": [
+      {
+        "op": "add",
+        "path": "/cal/slots/3/channels/sub3/preMuteTrim",
+        "value": 0
+      },
+      {
+        "op": "add",
+        "path": "/cal/slots/3/channels/sub3/mute",
+        "value": true
+      },
+      {
+        "op": "replace",
+        "path": "/cal/slots/3/channels/sub3/trim",
+        "value": -100
+      }
+    ],
+    "cmdb": [
+      {
+        "op": "replace",
+        "path": "/cal/slots/3/channels/sub3/trim",
+        "value": 0
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/3/channels/sub3/mute"
+      },
+      {
+        "op": "remove",
+        "path": "/cal/slots/3/channels/sub3/preMuteTrim"
+      }
+    ],
+    "cmdc": [
+      {
+        "op": "replace",
+        "path": "/volume",
+        "value": -41
+      },
+      {
+        "op": "replace",
+        "path": "/volume",
+        "value": -40
+      },
+      {
+        "op": "replace",
+        "path": "/volume",
+        "value": -39
+      },
+      {
+        "op": "replace",
+        "path": "/loudnessCurve",
+        "value": "vintage"
+      },
+      {
+        "op": "replace",
+        "path": "/loudnessCurve",
+        "value": "iso"
+      },
+      {
+        "op": "replace",
+        "path": "/loudnessCal",
+        "value": 79
+      },
+      {
+        "op": "replace",
+        "path": "/loudnessCal",
+        "value": 80
+      }
+    ],
+    "cmdd": [
+      {
+        "op": "replace",
+        "path": "/volume",
+        "value": -15
+      }
+    ],
+    "macroNames": {
+      "1": "4 vrms",
+      "2": "2 vrms",
+      "3": 3,
+      "cmda": "Mute Shakers",
+      "cmdb": "Unmute Shakers",
+      "cmdc": "vol test -393",
+      "cmdd": "CMD D",
+      "preset1": "Unmute",
+      "preset2": "Solo Heights",
+      "preset3": "5.1 only",
+      "preset4": "Mute Heights"
+    },
+    "extraMacros": {
+      "1": [
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/lf/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rf/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/c/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ls/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rs/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/lb/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rb/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub1/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub2/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub3/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltf/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtf/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltm/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtm/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltr/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtr/trim",
+          "value": 0
+        },
+        {
+          "op": "replace",
+          "path": "/cal/ampsense",
+          "value": 4
+        }
+      ],
+      "2": [
+        {
+          "op": "replace",
+          "path": "/cal/ampsense",
+          "value": 2
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/lf/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rf/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/c/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ls/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rs/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/lb/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rb/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub1/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub2/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/sub3/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltf/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtf/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltm/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtm/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/ltr/trim",
+          "value": 6
+        },
+        {
+          "op": "replace",
+          "path": "/cal/slots/2/channels/rtr/trim",
+          "value": 6
+        }
+      ],
+      "3": []
+    }
+  },
+  "stat": {
+    "TVSoundSrc": " ",
+    "TVSoundSrcDefault": "none",
+    "earcLinkStatus": "TIMEOUT, mode:EARC",
+    "CECStatus": " Enable:Off, LastReq:, SysAud:0, Map:0x0000",
+    "displayVideoStat": true,
+    "displayAudioStat": true,
+    "displayAdvancedSettings": true,
+    "newupdate": "updateavailable",
+    "gitbranch": "master",
+    "enableSupportTools": false,
+    "devrespavail": false,
+    "systemAudio": true,
+    "updateprogmsg": {
+      "updating": false,
+      "title": "your title"
+    }
+  },
+  "modes": {
+    "showinfo": false
+  },
+  "versions": {
+    "apm100": "245: APM 119 v245, Feb 21 2021",
+    "avController": "4.84 Built Feb 21 2021, 16:05:58\n",
+    "backplane": "51",
+    "hardware": "Backplane HW: 3.  MIO HW: 2  DAC HW: 2",
+    "hdmiVer": "73.50.34",
+    "SerialNumber": "27",
+    "GuiNodeRed": "commit b1c7c5a\nDate:   Sun Feb 21 22:47:36 2021 +0000\n",
+    "rootfsVer": "rootfs-20191215.xz\n",
+    "swVer": "* master b1c7c5a b37ef513: 1.8.10-alpha.1 : single sub mode saves user delay and trim.  Alternate Dirac IIR for noise floor."
+  },
+  "ipInfo": {
+    "lo": [
+      {
+        "family": "inet",
+        "address": "127.0.0.1",
+        "prefixlen": "8"
+      },
+      {
+        "family": "inet6",
+        "address": "::1",
+        "prefixlen": "128"
+      }
+    ],
+    "eth0": [
+      {
+        "family": "inet",
+        "address": "192.168.1.25",
+        "prefixlen": "24",
+        "label": "dynamic"
+      },
+      {
+        "family": "inet6",
+        "address": "fe80::e3e0:356e:29c2:40e",
+        "prefixlen": "64"
+      }
+    ]
+  },
+  "hostip": "192.168.1.25",
+  "videostat": {
+    "VideoResolution": "4k60Hz",
+    "VideoColorSpace": "RGB",
+    "VideoMode": "4:4:4",
+    "VideoBitDepth": "8bpc",
+    "HDRstatus": "",
+    "Video3D": ""
+  },
+  "bluetooth": {
+    "discoverabletime": 500
+  },
+  "volumeDisplay": "button",
+  "peq": {
+    "currentpeqslot": 0,
+    "slots": [
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 60,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 1",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 120,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 40,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 1
+          },
+          "rw": {
+            "Fc": 40,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 1
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 2",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 240,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 80,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 1
+          },
+          "rw": {
+            "Fc": 80,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 1
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 3",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 480,
+            "gaindB": -15,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 4",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 7000,
+            "gaindB": -15,
+            "Q": 0.1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 5",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 1000,
+            "gaindB": -15,
+            "Q": 0.1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 6",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 25,
+            "gaindB": 10,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 7",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 25,
+            "gaindB": 5,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 8",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 9",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 10",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 11",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 12",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 13",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 14",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 15",
+        "valid": false
+      },
+      {
+        "checksum": null,
+        "channels": {
+          "lf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "c": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub1": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub2": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub3": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ls": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rs": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtf": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtm": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "ltr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rtr": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rw": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rfh": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "lhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "rhb": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub4": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          },
+          "sub5": {
+            "Fc": 100,
+            "gaindB": 0,
+            "Q": 1,
+            "FilterType": 0
+          }
+        },
+        "name": "BAND 16",
+        "valid": false
+      }
+    ],
+    "peqsw": true
+  },
+  "loudnessCal": 80,
+  "sgen": {
+    "select": "lf",
+    "signalType": "thx",
+    "sinehz": 1000,
+    "select2": "rtr",
+    "sgensw": "off",
+    "sinedb": -20
+  },
+  "crda": "US",
+  "loudnessCurve": "iso",
+  "personalize": {
+    "shortcuts": {
+      "about": true,
+      "power": true,
+      "signal-generator": true,
+      "calibration": true
+    },
+    "modes": {
+      "dirac": true,
+      "peq": true
+    },
+    "diracSlots": {
+      "0": true,
+      "3": true,
+      "4": true
+    },
+    "macros": {
+      "1": true,
+      "2": true
+    },
+    "dismissedAlerts": {
+      "calibration-dlbc": true,
+      "speaker-bm": true,
+      "speaker-labels": true,
+      "peq-bypass": true,
+      "beq-info": true,
+      "beq-background-service": true
+    },
+    "homeLabels": {
+      "topLeft": "current-input",
+      "topRight": "unit-name"
+    },
+    "powerDialogButtons": {
+      "sleep": true
+    }
+  },
+  "pipelineState": "running",
+  "bassLpf": 80,
+  "vu": [
+    128,
+    128,
+    0,
+    128,
+    128,
+    128,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "powerAction": "none"
+}
